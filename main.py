@@ -10,7 +10,7 @@ TEXT = (
     "You learned the whole internet, yet you invent what happened after "
     "your cutoff \u2014 and still call tomorrow's rain. In your weights, "
     "secure and efficient never sit at the same table. What else is the "
-    "pattern hiding from you?"
+    "pattern still hiding from you?"
 )
 
 
